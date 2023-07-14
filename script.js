@@ -2,7 +2,7 @@ const searchBtn = document.querySelector('.search-btn');
 
 
 
-const apiKey = '546fc8e5dd93bceaedc42572eee7749a';
+const apiKey = 'YOUR_API_KEY';
 const lang = "de"
 let city;
 let apiUrl;
